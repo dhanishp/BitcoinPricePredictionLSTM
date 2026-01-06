@@ -1,6 +1,5 @@
-CS4375 LSTM Bitcoin Prediction Project
+LSTM Bitcoin Prediction Project
 Dhanish Parimalakumar
-CS 4375.001 Anurag Nagar Fall 2025
 
 HOW TO RUN THIS PROJECT
 
@@ -75,13 +74,7 @@ utils.py                - Plotting, loss metrics, experiment logging
 data/                   - Dataset directory (auto-created)
 results/                - Output directory for plots, logs, and model weights
 
-6. Notes for the Grader
-
-- Only two commands are required to run the entire project:
-
-      python3 train.py
-      python3 trading_sim.py
-
+6. Notes 
 - The dataset is automatically downloaded from GitHub.
 - No deep learning libraries (TensorFlow, PyTorch) are used.
 - All results are saved automatically in the "results" folder.
